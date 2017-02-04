@@ -1,0 +1,173 @@
+* {
+	box-sizing: border-box;
+	text-align: center;
+}
+
+
+header {
+    height: 89px;
+    border-bottom: 1px solid gray;
+}
+
+div#name {
+    width: 200px;
+    font-size: 10px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    background-color: #4aaaa5;
+    position: relative;
+    float: left;
+    margin-left: 180px;
+}
+
+h1 {
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	color: #ffffff;
+}
+
+nav {
+    font-family: Arial, sans-serif;
+    padding-top: 40px;
+    margin-right: 50px;
+}
+
+h2 {
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	color: #4aaaa5;
+}
+
+.wrapper {
+    width: 960px;
+    height: 600px;
+    border-bottom: 5px solid #4aaaa5;
+    margin: 0 auto;
+    background-image: url('file:///Users/jeffreypayne/Desktop/Basic-Portfolio/assets/images/footer_lodyas.png');
+}
+
+.container1 {
+	margin-top: 20px;
+	width: 450px;
+	padding: 20px;
+	float:left;
+	display: block;
+	border: 1px solid gray;
+	margin-left: 50px;
+	background-color: white;
+}
+
+.container1 h2{
+	text-align: left;
+}
+
+p {
+	font-family: 'Arial', 'Heletica Neue', Heletica, sans-serif;
+	color: #777777;
+	text-align: left;
+}
+
+.headphones {
+  float: left;
+  width: 200px;
+  padding-bottom: 20px;
+}
+
+#headline1 {
+	width: 200px;
+	height: 40px;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    position: absolute;
+}
+
+.turntable {
+  float: left;
+  width: 200px;
+  margin-left: 8px;
+  padding-bottom: 20px;
+}
+
+#headline2 {
+	float: right;
+	width: 200px;
+	height: 40px;
+    background-color: #4aaaa5;
+    color: #ffffff;
+}
+
+.technics {
+  width: 200px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+#headline3 {
+	float: left;
+	width: 200px;
+	height: 40px;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    position: absolute;
+}
+
+.container1 label{
+	font-family: 'Arial', 'Heletica Neue', Heletica, sans-serif;
+	color: #777777;
+}
+
+input#Name {
+	text-align: left;
+}
+
+input#Email {
+	text-align: left;
+}
+
+input#Submit {
+	text-align: left;
+	background-color: #4aaaa5;
+	color: white;
+	border: 1px solid;
+	padding: 5px 10px;
+}
+
+.container2 {
+	margin-top: 20px;
+	float: left;
+	width: 200px;
+	padding: 20px;
+	border-width: 1px, color: gray;	
+	display: block;
+	border: 1px solid gray;
+	margin-left: 30px;
+	background-color: white;
+
+}
+.container2 h3{
+	color: #4aaaa5;
+}
+
+.icon {
+	height: 50px;
+	width: 50px;
+}
+
+.my_pic {
+  float: left;
+  width: 200px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+
+footer {
+	margin: 0 auto;
+	text-align: center;
+	width: 960px;
+	height: 60px;
+	background-color: #666666;
+	padding: 20px;
+	clear: both;
+	color: white;
+
+}
